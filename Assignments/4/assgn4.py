@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCaVdOkYqC2QQe855cljGbsAonqnfKch3Q")
+client = genai.Client(api_key="API_KEY")
 
 poemTopic = input("Enter the Poem Title => ")
 
